@@ -48,7 +48,7 @@ If you reference this work, please cite as:
 
 ```
 Deshwal, V. (2026). Unified Perceptual Substrate for Embodied Predictive
-Intelligence. ReinforceAI. https://github.com/VirajDeshwal/unified-perceptual-substrate
+Intelligence. ReinforceAI. https://github.com/ReinforceAI/unified-perceptual-substrate
 ```
 
 ## License

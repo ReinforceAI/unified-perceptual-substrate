@@ -65,4 +65,4 @@ viraj@reinforceai.com
 
 ---
 
-*ReinforceAI is building self-improving humanoid intelligence inspired by the human brain, grounded in neuroscience, running on free energy principles. Generalization follows from the architecture.*
+*ReinforceAI self-improving Genralized Intelligence inspired by the human brain, grounded in neuroscience, running on free energy principles. Generalization follows from the architecture.*

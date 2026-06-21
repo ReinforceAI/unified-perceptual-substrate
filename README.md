@@ -12,7 +12,7 @@ A position paper on the architectural foundations of self-improving humanoid int
 
 This repository contains the position paper introducing the unified perceptual substrate: an architecture for embodied predictive intelligence in which multiple sensory modalities, physics-derived predictions, bounded plastic adaptation, and active inference operate within a single representational medium.
 
-The paper documents three years of independent research and establishes the architectural foundation for ReinforceAI's work on self-improving humanoid intelligence inspired by the human brain.
+The paper documents three years of independent research and establishes the architectural foundation for ReinforceAI's work on self-improving generalized intelligence inspired by the human brain.
 
 ## Architectural Commitments
 

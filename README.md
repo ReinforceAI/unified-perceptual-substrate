@@ -1,6 +1,6 @@
 # Unified Perceptual Substrate for Embodied Predictive Intelligence
 
-A position paper on the architectural foundations of self-improving humanoid intelligence.
+A position paper on the architectural foundations of self-improving generalized intelligence inspired by human brain.
 
 **Author:** Viraj Deshwal
 **Affiliation:** ReinforceAI
